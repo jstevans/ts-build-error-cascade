@@ -1,0 +1,14 @@
+{
+    "extends": "../../tsconfig-base",
+    "compilerOptions": {
+        "composite": true
+    },
+    "include": [
+        "./**/*.ts"
+    ],
+    "references": [
+        {
+            "path": "../indirectImport"
+        }
+    ],
+}

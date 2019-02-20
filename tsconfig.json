@@ -1,0 +1,11 @@
+{
+  "references": [{
+    "path": "./packages/directImport",
+  }, {
+    "path": "./packages/indirectImport",
+  }, {
+    "path": "./packages/reprosTheBug",
+  }],
+  "include": [],
+  "files": []
+}
